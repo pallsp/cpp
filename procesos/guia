@@ -1,0 +1,18 @@
+-Para compilar un programa en C: usamos el compilador gcc
+
+gcc nombreprograma.c -o ejecutable 
+
+y luego escribimos el nombre del ejecutable para ejecutar el programa
+
+-Para compilar un programa en C++: usamos el compilador g++
+
+g++ nombreprograma.cpp -o ejecutable 
+
+y luego escribimos el nombre del ejecutable para ejecutar el programa
+
+
+SI TENEMOS PROBLEMAS AL EJECUTAR TENDREMOS QUE AGREGAR EL DIRECTORIO ACTUAL 
+AL PATH
+
+PATH = $PATH:.
+
